@@ -11,4 +11,8 @@ title: Home
 
 We are a game consultant company. Current client: Mojang
 
+<div class="logo-container">
+  <img src="/assets/images/Mojang2020Logo.png" alt="Roden Games Logo">
+</div>
+
 <!-- Add any more sections as needed -->
