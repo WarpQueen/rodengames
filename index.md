@@ -9,7 +9,7 @@ title: Home
 
 # Welcome to Roden Games
 
-We are a game consultant company. Client: Mojang
+We are a game consultant company. Client: 
 
 <div class="logo-container">
   <img src="/assets/images/Mojang2020Logo.png" alt="Mojang Studios Logo">
