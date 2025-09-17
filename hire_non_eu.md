@@ -2,6 +2,7 @@
 layout: default
 title: Recruiting a non EU citizen
 permalink: /hire_non_eu
+class: left-page
 ---
 
 <div class="logo-container">
