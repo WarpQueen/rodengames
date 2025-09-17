@@ -2,6 +2,7 @@
 layout: default
 title: We are hiring!
 permalink: /jobs
+class: left-page
 ---
 
 # C++ Programmer
