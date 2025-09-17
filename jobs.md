@@ -56,9 +56,3 @@ If you are passionate about game development and eager to contribute to innovati
 **About Roden Games**
 
 Roden Games is a small and very well-functioning game development company. Although we prefer to stay behind the scenes, our work speaks for itself through the high-quality gaming experiences we help create. As a trusted partner to industry leaders like Mojang, we pride ourselves on our technical expertise, creative vision and solid work ethic, and having a good time while working. We are committed to fostering a supportive and collaborative work environment where everyone can thrive and achieve their best. 
-
-<!--<div class="logo-container">
-<!--  <img src="assets/images/Roden_Small.png" alt="Roden Logo Head" style="max-width: 50px; height: auto;">>
-<!--</div>
-
-<!-- Add any more sections as needed -->
