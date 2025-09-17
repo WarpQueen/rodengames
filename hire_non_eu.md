@@ -8,6 +8,7 @@ permalink: /hire_non_eu
   <img src="assets/images/flag.jpeg" alt="Swedish Flag">
 </div>
 
+
 # Recruiting a non EU citizen
 
 When hiring a person from outside of the EU, there are a lot of things that has to be exactly right, or they will get kicked out. Which is bad for both me and them. With that in mind, here is a guide if I ever need to do that again, to make it easier the next time.
