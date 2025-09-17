@@ -10,8 +10,6 @@ permalink: /hire_non_eu
 
 # Recruiting a non EU citizen
 
-<element_name align="left">
-
 When hiring a person from outside of the EU, there are a lot of things that has to be exactly right, or they will get kicked out. Which is bad for both me and them. With that in mind, here is a guide if I ever need to do that again, to make it easier the next time.
 
 This is the information from <a href="https://www.migrationsverket.se/arbetsgivare/du-vill-anstalla/anstalla-fran-lander-utanfor-eu-ees/anstallning/anstalld.html#svid10_2cd2e409193b84c506a2a791">Migrationsverket</a>.
