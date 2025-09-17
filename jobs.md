@@ -6,15 +6,13 @@ permalink: /jobs
 
 # C++ Programmer
 
-<element_name align="left">
+<b>Location: In or near Stockholm. The work will be up to 80% remote <br>
+ Job Type: Temporary employment (Until January 2026, with possibility of extension). Consultant or Employee. </b>
 
-<b>Location: In or near Stockholm. The work will be up to 80% remote 
- 
-Job Type: Temporary employment (Until January 2026, with possibility of extension). Consultant or Employee. </b>
 
 **Job Description**
 
- Roden Games is seeking a talented and passionate C++ Programmer to join our team as a consultant for Mojang. This is a unique opportunity to work with one of the most influential game developers in the industry. We are looking for someone with experience, but if your title would be mid or senior is not crucial. We are looking for the right fit; and sooner is better than later.
+ Roden Games is seeking a talented and passionate C++ Programmer to join our team as a consultant for Mojang. This is a unique opportunity to work with one of the most influential game developers in the industry. We are looking for someone with experience, but if your title would be mid or senior is not crucial. We are looking for the right fit.
 
 **Responsibilities**
 
@@ -24,7 +22,7 @@ Job Type: Temporary employment (Until January 2026, with possibility of extensio
 * Supporting and aligning with other feature teams working on your game project 
 * Work closely with backend engineers to help build scalable backend systems that will build the backbone of the social and collaborative aspects of the game experience. 
 
-**Required Qualifications **
+**Required Qualifications**
 
 * Professional experience with modern C++ (including refactoring, optimization, debugging and testing), and familiarity with recent revisions to the C++ standard.  
 * Proficient in working with game engines 
@@ -51,9 +49,11 @@ Job Type: Temporary employment (Until January 2026, with possibility of extensio
 * Flexibility job type, you can join as an employee or consultant.
 
 **How to Apply**
+
 If you are passionate about game development and eager to contribute to innovative and engaging gaming experiences, we'd love to hear from you! Please send your resume and portfolio to jobs@rodengames.com with the subject line "C++ Programmer - [Your Name]". 
  
 **About Roden Games**
+
 Roden Games is a small and very well-functioning game development company. Although we prefer to stay behind the scenes, our work speaks for itself through the high-quality gaming experiences we help create. As a trusted partner to industry leaders like Mojang, we pride ourselves on our technical expertise, creative vision and solid work ethic, and having a good time while working. We are committed to fostering a supportive and collaborative work environment where everyone can thrive and achieve their best. 
 
 <!--<div class="logo-container">
