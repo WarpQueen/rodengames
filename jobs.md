@@ -5,19 +5,19 @@ permalink: /jobs
 class: left-page
 ---
 
-# C++ Programmer
+# Experienced C++/Unreal Programmer
 
-<b>Location: In or near Stockholm. The work will be up to 80% remote <br>
- Job Type: Temporary employment (Until January 2026, with possibility of extension). Consultant or Employee. </b>
+<b>Location: Near Stockholm. Expected to be at the office at least 2 days per week. <br>
+ Job Type: Temporary employment (Until January 2026, with possibility of extension). </b>
 
 
 **Job Description**
 
- Roden Games is seeking a talented and passionate C++ Programmer to join our team as a consultant for Mojang. This is a unique opportunity to work with one of the most influential game developers in the industry. We are looking for someone with experience, but if your title would be mid or senior is not crucial. We are looking for the right fit.
+ Roden Games is seeking a talented and passionate C++ Programmer to join our team as a consultant for Mojang. This is a unique opportunity to work with one of the most influential game developers in the industry. We are looking for either a mid or senior.
 
 **Responsibilities**
 
-* Implementing online, social and multiplayer systems for the game client. 
+* Implementing online, social and multiplayer systems in the game. 
 * Make use of third-party networking API:s and services to deliver a smooth and coherent experience on all our target platforms.  
 * Together with Game Designers, develop and improve features to ensure a great multi-player experience. 
 * Supporting and aligning with other feature teams working on your game project 
@@ -26,20 +26,19 @@ class: left-page
 **Required Qualifications**
 
 * Professional experience with modern C++ (including refactoring, optimization, debugging and testing), and familiarity with recent revisions to the C++ standard.  
-* Proficient in working with game engines 
-* Experience in distributed systems such as Multiplayer games or similar server-client interaction. 
-* Self-motivated and able to work independently as well as in a team  
+* Proficient working with Unreal
+* Experience in distributed systems such as multiplayer games or similar server-client interaction. 
+* Self-motivated and able to work independently as well as in a team
+* Living in or near Stockholm, with the ability to work from the office at least two days per week. 
 * Strong communication skills  
 * Great interpersonal skills 
 * Excellent problem-solving skills and attention to detail. 
 
 **Preferred Qualifications**
 
-* Proficient in at least one modern game engine (e.g., Unreal Engine). 
 * Experience with console development across multiple platforms. 
 * Hands-on experience implementing multiplayer features in shipped console games. 
 * Familiarity with matchmaking, lobbies, friends lists, and host migration. 
-* Living in or near Stockholm, with the ability to work from the office at least two days per week. 
 
 **What We Offer**
 
@@ -51,7 +50,7 @@ class: left-page
 
 **How to Apply**
 
-If you are passionate about game development and eager to contribute to innovative and engaging gaming experiences, we'd love to hear from you! Please send your resume and portfolio to jobs@rodengames.com with the subject line "C++ Programmer - [Your Name]". 
+If you are passionate about game development and eager to contribute to innovative and engaging gaming experiences, we'd love to hear from you! Please send your resume and portfolio to jobs@rodengames.com with the subject line "Experienced C++/Unreal Programmer - [Your Name]". 
  
 **About Roden Games**
 
