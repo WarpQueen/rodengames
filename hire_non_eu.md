@@ -90,7 +90,7 @@ So I just proceeded with my application anyway. After about a week (maybe two), 
 
 ## After
 
-Success! All done? Alas, no. Within three months after the approval, you'll need to tell Skatteverket what is happening via this form:[Skatteverket](https://www.skatteverket.se/foretag/etjansterochblanketter/blanketterbroschyrer/blanketter/info/1160.4.64a656d113f4c759701233.html)
+Success! All done? Alas, no. Within three months after the approval, you'll need to tell Skatteverket what is happening via this form: [Skatteverket](https://www.skatteverket.se/foretag/etjansterochblanketter/blanketterbroschyrer/blanketter/info/1160.4.64a656d113f4c759701233.html)
 It should then be sent to:
 
 Skatteverket
