@@ -62,7 +62,7 @@ Check [Migrationsverket’s page](https://www.migrationsverket.se/arbetsgivare/d
 
 The information at [Migrationsverket](https://www.migrationsverket.se/arbetsgivare/du-vill-anstalla/anstalla-fran-lander-utanfor-eu-ees/anstallning/anstalld.html#svid12_2cd2e409193b84c506a3109b) is rather vague, but this is crucial. This was honestly one of the scariest parts.  
 
-After digging around, I got info from a kind man at Max Matthiessen. I wasn’t interested in moving my whole company over to them, so I couldn’t get the insurances via him. Eventually I figured out the requirements:  
+After digging around, I got info from a kind man at Max Matthiessen. I wasn’t interested in moving my whole company over to them for everything, so I couldn’t get the insurances via him. Eventually I figured out the requirements:  
 
 - Pension: 4.5% of salary up to 7.5 income base amounts. 30% on salary above that.  
 - Health insurance: 80% protection of gross salary (ITP1-sjuk).  
@@ -87,6 +87,16 @@ Then I got in contact with HR at Mojang, who explained that while the union has 
 So I just proceeded with my application anyway. After about a week (maybe two), it got approved.
 
 ---
+
+## After
+
+Success! All done? Alas, no. Within three months after the approval, you'll need to tell Skatteverket what is happening via this form:[Skatteverket](https://www.skatteverket.se/foretag/etjansterochblanketter/blanketterbroschyrer/blanketter/info/1160.4.64a656d113f4c759701233.html)
+It should then be sent to:
+
+Skatteverket
+205 30 Malmö
+
+(I was unable to find an e-mail, so enjoy my annoyed handwriting Skatteverket!)
 
 Puh! So, the next time, I can just replicate exactly what I did here, and the whole process will be **much faster**.  
 And since you’re reading this, so can you. Enjoy the fruits of my labor 🎉
